@@ -1,0 +1,4 @@
+#example code, run main method to execute directly, providing the name to the file in the arguments, in this case "code.txt"
+copy r1 5
+copy r2 6
+math add r1 r1 r2
