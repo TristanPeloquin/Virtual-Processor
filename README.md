@@ -1,5 +1,5 @@
 # Virtual Processor
-The virtual processor is a essentially a simulation of a real processor, going as far as to use bits/words to represent data.
+The virtual processor is a simulation of a real processor, which uses a representation of bits/words to represent data.
 Packaged with this processor is also a lexer/parser that allows the user to run their own code using a unique instruction set.
 This means that fully fledged programs can be written using this processor and can do most of what a real processor can do.
 
@@ -25,4 +25,4 @@ your own code and run your own programs.
 
 For further documentation, see the following document for the instruction set used:[SIA32.pdf](https://github.com/TristanPeloquin/Virtual-Processor/files/15358273/SIA32.pdf)
 
-The code is also extensively commented/documented if you want to make any modifications.
+The code is also extensively commented/documented if you'd like to make any modifications.
